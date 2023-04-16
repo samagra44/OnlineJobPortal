@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 3, 2023, 12:34:04 PM
+    Author     : Asus
+*/
+/*body{
+  
+}*/
+
+.bg-custom{
+    background: #283593 !important;
+}
+.navbar .nav-item .nav-link{
+    font-size: 20px;
+    color: white;
+}
+.navbar .nav-item:hover .nav-link{
+    background: red;
+    color: black;
+    border-radius: 10px;
+}
+
+
